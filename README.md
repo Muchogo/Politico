@@ -5,7 +5,7 @@
 
 # Politico
 ## Project Overview
-The application is meant to help increase transparency and efficiency in the election process.
+This application is meant to help increase transparency and efficiency in the election process.
 
 To view this site : https://github.com/Muchogo/Politico
 
