@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/Muchogo/Politico.svg?branch=develop)](https://travis-ci.org/Muchogo/Politico)
-[![Coverage Status](https://coveralls.io/repos/github/Muchogo/Politico/badge.svg)](https://coveralls.io/github/Muchogo/Politico)
+[![Coverage Status](https://coveralls.io/repos/github/Muchogo/Politico/badge.svg?branch=develop)](https://coveralls.io/github/Muchogo/Politico?branch=develop)
 [![Maintainability](https://api.codeclimate.com/v1/badges/93ca3eed08af43f26039/maintainability)](https://codeclimate.com/github/Muchogo/Politico/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/93ca3eed08af43f26039/test_coverage)](https://codeclimate.com/github/Muchogo/Politico/test_coverage)
 
